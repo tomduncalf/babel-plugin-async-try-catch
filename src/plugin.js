@@ -1,4 +1,3 @@
-import 'source-map-support/register';
 import wrap from './wrap.js';
 
 export default function ({ Plugin, types: t }) {
